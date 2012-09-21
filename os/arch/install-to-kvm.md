@@ -74,8 +74,6 @@ Customize configuration before install にチェックを入れます。
 NIC を選択し、Source device を NAT から Host device eth0 に変更しました。
 自分のネットワークに合わせて設定してください。
 
-Display を選択し、 Type を VNC から Spice に変更しました。
-
 Display を Spice にするとインストールできないので、
 インストールする時点では VNC のままにしておきます。
 
