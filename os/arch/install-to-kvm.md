@@ -169,12 +169,6 @@ base グループと base-devel グループを
 
     # pacstrap /mnt base base-devel
 
-### grub-bios をインストールする
-
-grub-bios をインストールします。
-
-    # pacstrap /mnt grub-bios
-
 ### genfstab
 
 基本的な fstab を自動生成します。
